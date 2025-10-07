@@ -90,7 +90,7 @@
 
 #### 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
 
-<img src=".png" width="700">
+<img src="drop.png" width="700">
 
 <br>
 
